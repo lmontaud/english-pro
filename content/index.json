@@ -1,0 +1,13 @@
+{
+  "_aide": "Liste des fichiers de thèmes, dans l'ordre d'affichage. Pour ajouter un thème : créez un fichier JSON dans ce dossier et ajoutez son nom ici.",
+  "files": [
+    "meetings.json",
+    "emails.json",
+    "controlling.json",
+    "audit.json",
+    "charts.json",
+    "presenting.json",
+    "false-friends.json",
+    "grammar.json"
+  ]
+}
